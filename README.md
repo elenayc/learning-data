@@ -13,3 +13,6 @@ https://www.w3schools.com/python/pandas/default.asp
 
 jupyter notebook google colab
 https://jupyter.org/
+
+VU topic in big data examples:
+https://github.com/vu-topics-in-big-data-2023/examples/tree/main/example-map-reduce
